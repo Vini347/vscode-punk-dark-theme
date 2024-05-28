@@ -1,16 +1,13 @@
-# description README
+# VSCODE Dark theme
 
-## Working with Markdown
+## stylishment of environment, variables, methods, classes...
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This extension has been based on idea of:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+* Deep darker enviroment.
+* shades of purple, blue, yellow and green code snippets.
+* low colors and high contrast vscode menu.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Feedbacks is not welcome <3
 
 **Enjoy!**
