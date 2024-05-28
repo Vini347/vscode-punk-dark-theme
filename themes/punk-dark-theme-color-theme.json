@@ -8,7 +8,7 @@
 		"editor.lineHighlightBackground": "#222222",
 		"editor.lineHighlightBorder": "#222222",
 		"sideBar.background": "#222222",
-		"editor.foreground": "#84e995", // escritas
+		"editor.foreground": "#84e995",
 		"titleBar.activeBackground": "#222222",
 		"notificationCenterHeader.background": "#222222",
 		"notificationLink.foreground": "#222222",
@@ -65,7 +65,7 @@
 		"editorGutter.deletedBackground": "#FC644DBB",
 		"terminal.ansiWhite": "#ffffff",
 		"notifications.background": "#222222",
-		"notifications.foreground": "#FFFFFF",
+		"notifications.foreground": "#FFFFFF"
 	   },
 	"tokenColors": [
 		{

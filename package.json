@@ -1,7 +1,7 @@
 {
   "name": "description",
-  "displayName": "binikkjj",
-  "description": "binikkjj",
+  "displayName": "vscode-punk-dark-theme",
+  "description": "Dark theme with purple/blue syntax",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.89.0"
@@ -12,16 +12,17 @@
   "keywords": [
     "dark"
   ],
+  "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Vini347/vscode-punk-dark-theme"
   },
   "contributes": {
     "themes": [
       {
-        "label": "binikkjj",
+        "label": "vscode-punk-dark-theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/binikkjj-color-theme.json"
+        "path": "./themes/punk-dark-theme-color-theme.json"
       }
     ]
   }
