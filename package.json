@@ -1,0 +1,21 @@
+{
+  "name": "description",
+  "displayName": "binikkjj",
+  "description": "binikkjj",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "binikkjj",
+        "uiTheme": "vs-dark",
+        "path": "./themes/binikkjj-color-theme.json"
+      }
+    ]
+  }
+}
