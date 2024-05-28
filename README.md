@@ -8,6 +8,6 @@ This extension has been based on idea of:
 * shades of purple, blue, yellow and green code snippets.
 * low colors and high contrast vscode menu.
 
-## Feedbacks is not welcome <3
+## Feedback is not welcome <3
 
 **Enjoy!**
